@@ -1,2 +1,4 @@
 F:\engineering\programming books\Valerio De Sanctis - ASP.NET Core 6 and Angular\Projects\chapter05\WorldCities\WorldCities\obj\Debug\WorldCities.esproj.SuggestedBindingRedirects.cache
 F:\engineering\programming books\Valerio De Sanctis - ASP.NET Core 6 and Angular\Projects\chapter05\WorldCities\WorldCities\obj\Debug\WorldCities.esproj.CoreCompileInputs.cache
+F:\Programming\books\Valerio De Sanctis - ASP.NET Core 6 and Angular\Projects\chapter05\WorldCities\WorldCities\obj\Debug\WorldCities.esproj.SuggestedBindingRedirects.cache
+F:\Programming\books\Valerio De Sanctis - ASP.NET Core 6 and Angular\Projects\chapter05\WorldCities\WorldCities\obj\Debug\WorldCities.esproj.CoreCompileInputs.cache
