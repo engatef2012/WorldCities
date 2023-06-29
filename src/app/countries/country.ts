@@ -1,6 +1,7 @@
 export interface Country {
   id: number;
   name: string;
-  ISO2: string;
-  ISO3:string;
+  iso2: string;
+  iso3: string;
+  totCities: number;
 }
