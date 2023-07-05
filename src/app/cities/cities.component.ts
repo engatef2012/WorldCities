@@ -47,13 +47,13 @@ export class CitiesComponent implements OnInit {
     this.getData(pageEvent);
   }
   getData(event: PageEvent) {
-    var sortColum = (this.sort) ? this.sort.active : this.defaultSortColumn;
+    var sortColumn = (this.sort) ? this.sort.active : this.defaultSortColumn;
     var sortOrder = (this.sort) ? this.sort.direction : this.defaultSortOrder;
     var filterColumn = (this.filterQuery) ? this.defaultFilterColumn : null;
     var filterQuery = (this.filterQuery) ? this.filterQuery : null;
     this.cityService.getData(event.pageIndex,
       event.pageSize,
-      sortColum,
+      sortColumn,
       sortOrder,
       filterColumn,
       filterQuery).subscribe({next: result => {
